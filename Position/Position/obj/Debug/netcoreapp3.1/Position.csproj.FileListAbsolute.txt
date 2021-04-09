@@ -1,0 +1,11 @@
+C:\Users\facif\source\repos\Position\Position\bin\Debug\netcoreapp3.1\Position.exe
+C:\Users\facif\source\repos\Position\Position\bin\Debug\netcoreapp3.1\Position.deps.json
+C:\Users\facif\source\repos\Position\Position\bin\Debug\netcoreapp3.1\Position.runtimeconfig.json
+C:\Users\facif\source\repos\Position\Position\bin\Debug\netcoreapp3.1\Position.runtimeconfig.dev.json
+C:\Users\facif\source\repos\Position\Position\bin\Debug\netcoreapp3.1\Position.dll
+C:\Users\facif\source\repos\Position\Position\bin\Debug\netcoreapp3.1\Position.pdb
+C:\Users\facif\source\repos\Position\Position\obj\Debug\netcoreapp3.1\Position.csprojAssemblyReference.cache
+C:\Users\facif\source\repos\Position\Position\obj\Debug\netcoreapp3.1\Position.AssemblyInfoInputs.cache
+C:\Users\facif\source\repos\Position\Position\obj\Debug\netcoreapp3.1\Position.AssemblyInfo.cs
+C:\Users\facif\source\repos\Position\Position\obj\Debug\netcoreapp3.1\Position.dll
+C:\Users\facif\source\repos\Position\Position\obj\Debug\netcoreapp3.1\Position.pdb
